@@ -12,7 +12,7 @@ from redbot.core import app_commands, commands
 log = logging.getLogger("red.servarr.radarrmeta")
 
 
-__version__ = "1.3.3"
+__version__ = "1.3.4"
 
 HEADERS = {"User-Agent": f"radarrmeta-cog/{__version__}"}
 RADARR_META_BASE = "https://api.radarr.video/v1"
